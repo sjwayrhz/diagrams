@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-12T00:28:02.569Z" agent="5.0 (Windows)" etag="EX5CdDdmDJOETvjxUUTt" version="15.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-12T00:29:11.677Z" agent="5.0 (Windows)" etag="C8HWwuyFHT7QW1AHvDDM" version="15.5.1" type="github">
   <diagram id="Ugncc8Sic4x95gNGHgsQ" name="Page-1">
     <mxGraphModel dx="1422" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -190,7 +190,7 @@
         <mxCell id="Rrn0yUKcwESMAnz6NEqZ-2" value="192.168.177.204" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="10" y="116" width="120" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="Rrn0yUKcwESMAnz6NEqZ-3" value="&lt;div&gt;jenkins&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="Rrn0yUKcwESMAnz6NEqZ-3" value="&lt;div&gt;k8s-jenkins&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="160" y="118.5" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
