@@ -1,0 +1,194 @@
+<mxfile host="app.diagrams.net" modified="2022-01-04T00:54:04.155Z" agent="5.0 (Macintosh)" etag="tsCwofqDNtBfBC6fKtur" version="16.1.4" type="github">
+  <diagram id="AUHD5_hWMVwP8_O0gy8G" name="Page-1">
+    <mxGraphModel dx="1426" dy="797" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="RDMmRnE5grTv2I2Outdi-26" style="edgeStyle=orthogonalEdgeStyle;shape=flexArrow;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="RDMmRnE5grTv2I2Outdi-1" target="RDMmRnE5grTv2I2Outdi-11" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RDMmRnE5grTv2I2Outdi-1" value="&lt;div&gt;Google&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Kubernetes&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+          <mxGeometry x="525" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="RDMmRnE5grTv2I2Outdi-2" value="rancher" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="100" y="180" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RDMmRnE5grTv2I2Outdi-5" value="openshift" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="240" y="180" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RDMmRnE5grTv2I2Outdi-6" value="daocloud" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="390" y="180" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RDMmRnE5grTv2I2Outdi-7" value="alauda" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="535" y="180" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RDMmRnE5grTv2I2Outdi-8" value="kubesphere" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="670" y="180" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RDMmRnE5grTv2I2Outdi-9" value="harmony" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="940" y="180" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RDMmRnE5grTv2I2Outdi-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=1;" parent="1" source="RDMmRnE5grTv2I2Outdi-11" target="RDMmRnE5grTv2I2Outdi-2" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="140" y="115" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RDMmRnE5grTv2I2Outdi-30" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="RDMmRnE5grTv2I2Outdi-11" target="RDMmRnE5grTv2I2Outdi-5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RDMmRnE5grTv2I2Outdi-31" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="RDMmRnE5grTv2I2Outdi-11" target="RDMmRnE5grTv2I2Outdi-6" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RDMmRnE5grTv2I2Outdi-32" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="RDMmRnE5grTv2I2Outdi-11" target="RDMmRnE5grTv2I2Outdi-7" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RDMmRnE5grTv2I2Outdi-33" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="RDMmRnE5grTv2I2Outdi-11" target="RDMmRnE5grTv2I2Outdi-8" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RDMmRnE5grTv2I2Outdi-34" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="RDMmRnE5grTv2I2Outdi-11" target="RDMmRnE5grTv2I2Outdi-9" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RDMmRnE5grTv2I2Outdi-37" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="RDMmRnE5grTv2I2Outdi-11" target="RDMmRnE5grTv2I2Outdi-36" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RDMmRnE5grTv2I2Outdi-56" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="RDMmRnE5grTv2I2Outdi-11" target="RDMmRnE5grTv2I2Outdi-54" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RDMmRnE5grTv2I2Outdi-11" value="衍生" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="542.5" y="90" width="85" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="RDMmRnE5grTv2I2Outdi-36" value="others" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="1070" y="180" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RDMmRnE5grTv2I2Outdi-38" value="道客云" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="400" y="220" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RDMmRnE5grTv2I2Outdi-39" value="灵雀云" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="542.5" y="220" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RDMmRnE5grTv2I2Outdi-40" value="青云" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="680" y="220" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RDMmRnE5grTv2I2Outdi-41" value="谐云" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="950" y="220" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RDMmRnE5grTv2I2Outdi-42" value="其它" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="1080" y="220" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RDMmRnE5grTv2I2Outdi-43" value="suse" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="110" y="220" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RDMmRnE5grTv2I2Outdi-44" value="red hat" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="250" y="220" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RDMmRnE5grTv2I2Outdi-45" value="所属公司" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="10" y="220" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RDMmRnE5grTv2I2Outdi-46" value="市场占有率" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="5" y="280" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RDMmRnE5grTv2I2Outdi-47" value="90%" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="110" y="280" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RDMmRnE5grTv2I2Outdi-48" value="7%" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="250" y="280" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RDMmRnE5grTv2I2Outdi-49" value="很低" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="400" y="280" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RDMmRnE5grTv2I2Outdi-50" value="很低" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="542.5" y="280" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RDMmRnE5grTv2I2Outdi-51" value="偏低" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="680" y="280" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RDMmRnE5grTv2I2Outdi-52" value="很低" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="950" y="280" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RDMmRnE5grTv2I2Outdi-53" value="很低" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="1080" y="280" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RDMmRnE5grTv2I2Outdi-54" value="animbus" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="820" y="180" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RDMmRnE5grTv2I2Outdi-55" value="九州云- 抄袭青云" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="810" y="220" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RDMmRnE5grTv2I2Outdi-57" value="0" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="830" y="280" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RDMmRnE5grTv2I2Outdi-58" value="license费用" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="5" y="350" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RDMmRnE5grTv2I2Outdi-59" value="第二贵" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="110" y="350" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RDMmRnE5grTv2I2Outdi-60" value="第一贵" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="250" y="350" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RDMmRnE5grTv2I2Outdi-61" value="不值得购买" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="400" y="350" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RDMmRnE5grTv2I2Outdi-62" value="不值得购买" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="537.5" y="350" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RDMmRnE5grTv2I2Outdi-63" value="不值得购买" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="675" y="350" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RDMmRnE5grTv2I2Outdi-64" value="不值得购买" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="825" y="350" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RDMmRnE5grTv2I2Outdi-65" value="不值得购买" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="945" y="350" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RDMmRnE5grTv2I2Outdi-66" value="不值得购买" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="1075" y="350" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RDMmRnE5grTv2I2Outdi-67" value="services费用" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="5" y="430" width="75" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RDMmRnE5grTv2I2Outdi-68" value="第二贵" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="110" y="430" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RDMmRnE5grTv2I2Outdi-69" value="第一贵" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="250" y="430" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RDMmRnE5grTv2I2Outdi-70" value="&lt;h1&gt;Rancher特点&lt;br&gt;&lt;/h1&gt;&lt;p&gt;由suse公司生产，市场占有率最高，易于购买技术支持，易于后期搬迁及改造推荐度最高。&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="370" y="570" width="785" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="RDMmRnE5grTv2I2Outdi-72" value="&lt;h1&gt;Openshift特点&lt;br&gt;&lt;/h1&gt;&lt;p&gt;稳定，笨重，red hat官方集成k8s，费用贵，适合于后期稳定投入。&lt;/p&gt;&lt;p&gt;市场占有率低，售后服务费用也很高，产品稳定性可以排名第一。安装复杂，真正做到将k8s安装到物理机。&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="370" y="690" width="775" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="RDMmRnE5grTv2I2Outdi-73" value="搬迁复杂度" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="2.5" y="490" width="75" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RDMmRnE5grTv2I2Outdi-74" value="最容易" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="110" y="490" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RDMmRnE5grTv2I2Outdi-75" value="第二容易" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="250" y="490" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RDMmRnE5grTv2I2Outdi-76" value="很难" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="405" y="490" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RDMmRnE5grTv2I2Outdi-77" value="很难" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="555" y="490" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RDMmRnE5grTv2I2Outdi-78" value="很难" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="690" y="490" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RDMmRnE5grTv2I2Outdi-79" value="很难" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="835" y="490" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RDMmRnE5grTv2I2Outdi-80" value="很难" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="950" y="490" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RDMmRnE5grTv2I2Outdi-82" value="比较容易" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="1075" y="490" width="60" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
