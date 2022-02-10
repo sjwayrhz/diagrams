@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-10T02:44:47.561Z" agent="5.0 (Macintosh)" etag="D4b0sTD9pnn87oOFnhux" version="16.5.5" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-10T02:50:42.688Z" agent="5.0 (Macintosh)" etag="KWtN3-Y_VpraJ90L0k0z" version="16.5.5" type="github">
   <diagram id="eRvud6ohbAWMwjSmWwb1" name="Page-1">
     <mxGraphModel dx="1426" dy="797" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -18,7 +18,7 @@
             <mxPoint x="380" y="77" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="XRoxbtiQjuEyfzmK9Z0M-31" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" edge="1" target="XRoxbtiQjuEyfzmK9Z0M-48" source="XRoxbtiQjuEyfzmK9Z0M-5">
+        <mxCell id="XRoxbtiQjuEyfzmK9Z0M-31" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="XRoxbtiQjuEyfzmK9Z0M-5" target="XRoxbtiQjuEyfzmK9Z0M-48" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="200" y="601" as="targetPoint" />
             <mxPoint x="585" y="261" as="sourcePoint" />
@@ -131,14 +131,14 @@
         <mxCell id="XRoxbtiQjuEyfzmK9Z0M-49" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;fillColor=none;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="180" y="617" width="240" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="XRoxbtiQjuEyfzmK9Z0M-50" value="rancher nginx " style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeColor=#314354;fillColor=#647687;fontColor=#ffffff;" parent="1" vertex="1">
-          <mxGeometry x="510" y="329.5" width="110" height="35" as="geometry" />
+        <mxCell id="XRoxbtiQjuEyfzmK9Z0M-50" value="rancher nginx ingress" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeColor=#314354;fillColor=#647687;fontColor=#ffffff;" parent="1" vertex="1">
+          <mxGeometry x="510" y="327" width="150" height="40.5" as="geometry" />
         </mxCell>
-        <mxCell id="XRoxbtiQjuEyfzmK9Z0M-51" value="minio" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeColor=#314354;fillColor=#647687;fontColor=#ffffff;" parent="1" vertex="1">
-          <mxGeometry x="510" y="390.13" width="110" height="33.75" as="geometry" />
+        <mxCell id="XRoxbtiQjuEyfzmK9Z0M-51" value="minio mysql" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeColor=#314354;fillColor=#647687;fontColor=#ffffff;" parent="1" vertex="1">
+          <mxGeometry x="510" y="390.13" width="150" height="33.75" as="geometry" />
         </mxCell>
-        <mxCell id="XRoxbtiQjuEyfzmK9Z0M-52" value="nfs-server" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeColor=#314354;fillColor=#647687;fontColor=#ffffff;" parent="1" vertex="1">
-          <mxGeometry x="510" y="449.5" width="110" height="35" as="geometry" />
+        <mxCell id="XRoxbtiQjuEyfzmK9Z0M-52" value="nfs-server redis kafka" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeColor=#314354;fillColor=#647687;fontColor=#ffffff;" parent="1" vertex="1">
+          <mxGeometry x="510" y="449.5" width="150" height="35" as="geometry" />
         </mxCell>
         <mxCell id="XRoxbtiQjuEyfzmK9Z0M-56" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=1;curved=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="XRoxbtiQjuEyfzmK9Z0M-12" target="XRoxbtiQjuEyfzmK9Z0M-50" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
