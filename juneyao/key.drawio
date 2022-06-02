@@ -1,1 +1,130 @@
-<mxfile host="app.diagrams.net" modified="2022-06-02T11:07:45.870Z" agent="5.0 (Windows)" version="18.2.0" etag="HDNYRM09lv2VC54FtjBU" type="github"><diagram id="6OKqu3US4WO4cyppKAq1">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-06-02T11:36:09.658Z" agent="5.0 (Windows)" etag="JdqOm2wkJvwTqElQXZm2" version="18.2.0" type="github">
+  <diagram id="6OKqu3US4WO4cyppKAq1" name="Page-1">
+    <mxGraphModel dx="1422" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="4vdQmlZDYrNS1Ke6tXvE-1" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;OpenSSL加密&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;flipV=1;flipH=1;" vertex="1" parent="1">
+          <mxGeometry x="506" y="110" width="158" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4vdQmlZDYrNS1Ke6tXvE-2" value="路德" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="140" y="560" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4vdQmlZDYrNS1Ke6tXvE-4" value="&lt;div&gt;美国IC情报&lt;/div&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="1030" y="560" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4vdQmlZDYrNS1Ke6tXvE-6" value="1. IC发送公钥给路德" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="462" y="490" width="245" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4vdQmlZDYrNS1Ke6tXvE-15" value="" style="curved=1;endArrow=classic;html=1;rounded=0;fontSize=18;exitX=0;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.3333333333333333;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="4vdQmlZDYrNS1Ke6tXvE-4" target="4vdQmlZDYrNS1Ke6tXvE-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="580" as="sourcePoint" />
+            <mxPoint x="570" y="530" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="930" y="550" />
+              <mxPoint x="810" y="540" />
+              <mxPoint x="580" y="530" />
+              <mxPoint x="520" y="530" />
+              <mxPoint x="330" y="540" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4vdQmlZDYrNS1Ke6tXvE-16" value="&lt;div&gt;2.使用IC的公钥将x.txt文件加密为y.txt&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="230" y="610" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4vdQmlZDYrNS1Ke6tXvE-18" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontSize=18;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="154.5" y="650" as="sourcePoint" />
+            <mxPoint x="154.5" y="710" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4vdQmlZDYrNS1Ke6tXvE-26" value="拥有x.txt文件" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="80" y="720" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4vdQmlZDYrNS1Ke6tXvE-27" value="" style="endArrow=classic;html=1;rounded=0;fontSize=18;" edge="1" parent="1" target="4vdQmlZDYrNS1Ke6tXvE-32">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="180" y="600" as="sourcePoint" />
+            <mxPoint x="480" y="600" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4vdQmlZDYrNS1Ke6tXvE-35" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;fontSize=18;" edge="1" parent="1" source="4vdQmlZDYrNS1Ke6tXvE-32" target="4vdQmlZDYrNS1Ke6tXvE-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="600" y="600" />
+              <mxPoint x="640" y="600" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4vdQmlZDYrNS1Ke6tXvE-32" value="路德" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="555" y="570" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4vdQmlZDYrNS1Ke6tXvE-33" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontSize=18;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="569.5" y="660" as="sourcePoint" />
+            <mxPoint x="569.5" y="720" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4vdQmlZDYrNS1Ke6tXvE-34" value="&lt;div&gt;拥有x.txt文件和&lt;/div&gt;&lt;div&gt;y.txt加密文件&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="450" y="730" width="220" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4vdQmlZDYrNS1Ke6tXvE-36" value="3.发送加密文件y.txt给IC" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="700" y="600" width="223" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4vdQmlZDYrNS1Ke6tXvE-37" value="拥有IC的公钥和私钥" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="989" y="450" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4vdQmlZDYrNS1Ke6tXvE-39" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontSize=18;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1060" y="560" as="sourcePoint" />
+            <mxPoint x="1079" y="500" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4vdQmlZDYrNS1Ke6tXvE-40" value="获得的z.txt文件内容与x.txt相同" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="840" y="760" width="250" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="4vdQmlZDYrNS1Ke6tXvE-41" value="&lt;br&gt;4.使用美国IC私钥解密y.txt为z.txt&lt;br&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="850" y="690" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4vdQmlZDYrNS1Ke6tXvE-43" value="" style="endArrow=classic;html=1;rounded=0;fontSize=18;entryX=0.412;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="4vdQmlZDYrNS1Ke6tXvE-4" target="4vdQmlZDYrNS1Ke6tXvE-40">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1050" y="710" as="sourcePoint" />
+            <mxPoint x="1100" y="660" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4vdQmlZDYrNS1Ke6tXvE-45" value="甲" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="160" y="240" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4vdQmlZDYrNS1Ke6tXvE-46" value="乙" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="923" y="220" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4vdQmlZDYrNS1Ke6tXvE-47" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;fontSize=18;" edge="1" parent="1" source="4vdQmlZDYrNS1Ke6tXvE-46" target="4vdQmlZDYrNS1Ke6tXvE-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4vdQmlZDYrNS1Ke6tXvE-48" value="&lt;div&gt;拥有甲的公钥和私钥&lt;/div&gt;&lt;div&gt;拥有文件x&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="90" y="340" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4vdQmlZDYrNS1Ke6tXvE-49" value="&lt;div&gt;拥有乙的公钥和私钥&lt;/div&gt;&lt;div&gt;拥有文件y&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="843" y="330" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4vdQmlZDYrNS1Ke6tXvE-51" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;fontSize=18;" edge="1" parent="1" source="4vdQmlZDYrNS1Ke6tXvE-46" target="4vdQmlZDYrNS1Ke6tXvE-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4vdQmlZDYrNS1Ke6tXvE-52" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;fontSize=18;" edge="1" parent="1" source="4vdQmlZDYrNS1Ke6tXvE-46" target="4vdQmlZDYrNS1Ke6tXvE-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4vdQmlZDYrNS1Ke6tXvE-56" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;fontSize=18;" edge="1" parent="1">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="250" y="280" as="sourcePoint" />
+            <mxPoint x="890" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4vdQmlZDYrNS1Ke6tXvE-58" value="&lt;div&gt;甲希望获得乙的文件y&lt;/div&gt;&lt;div&gt;&lt;div&gt;乙希望获得甲的文件x&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="465" y="190" width="275" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="4vdQmlZDYrNS1Ke6tXvE-59" value="&lt;div&gt;甲把甲的公钥和文件x给乙&lt;/div&gt;&lt;div&gt;乙把乙的公钥和文件y给乙&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="460" y="300" width="280" height="70" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
