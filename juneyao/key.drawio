@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-02T11:38:22.619Z" agent="5.0 (Windows)" etag="luv9LZKzSX1hEo19pIhx" version="18.2.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-02T11:41:27.228Z" agent="5.0 (Windows)" etag="5RRazzDwxvQQIQheOjkU" version="18.2.0" type="github">
   <diagram id="6OKqu3US4WO4cyppKAq1" name="Page-1">
     <mxGraphModel dx="1422" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -118,11 +118,11 @@
             <mxPoint x="890" y="280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4vdQmlZDYrNS1Ke6tXvE-58" value="&lt;div&gt;甲希望获得乙的文件y&lt;/div&gt;&lt;div&gt;乙把乙的公钥和文件y加密后给甲&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="465" y="190" width="275" height="70" as="geometry" />
+        <mxCell id="4vdQmlZDYrNS1Ke6tXvE-58" value="&lt;div align=&quot;left&quot;&gt;1.甲希望获得乙的文件y&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;2.甲将甲的公钥给乙&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;3.乙用甲的公钥把文件y加密后给甲&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;align=left;" vertex="1" parent="1">
+          <mxGeometry x="450" y="190" width="305" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="4vdQmlZDYrNS1Ke6tXvE-59" value="&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;乙希望获得甲的文件x&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;甲把甲的公钥和文件x加密后给乙&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="460" y="300" width="280" height="80" as="geometry" />
+        <mxCell id="4vdQmlZDYrNS1Ke6tXvE-59" value="&lt;div align=&quot;left&quot;&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;1.乙希望获得甲的文件x&lt;/div&gt;&lt;div&gt;2.乙将乙的公钥给甲&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;3.甲用乙的公钥把文件x加密后给乙&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;align=left;" vertex="1" parent="1">
+          <mxGeometry x="445" y="300" width="310" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
